@@ -16,7 +16,7 @@
 - **Adicionar tasks**
 - **Apagar tasks**
 - **Completar tasks**
-## Implementações futuras
+## Implementações futuras:
 > Objetivo é deixar o app cada vez mais complexo
 - [ ] **Edição de tasks**
 - [ ] **Catálogo de tasks**
