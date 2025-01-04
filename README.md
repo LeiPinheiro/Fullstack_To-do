@@ -6,13 +6,13 @@
 <br>
 <img src='./src/assets/to-do-app.png'>
 
-## Tecnologias Usadas
--  **MongoDB**
+## Tecnologias Usadas:
+-  **Mongoose**
 -  **Express**
 -  **React**
 -  **Node.js**
-## Features
-> CRUD feito com mongoDB
+## Features:
+> CRUD conectado com o mongoDB
 - **Adicionar tasks**
 - **Apagar tasks**
 - **Completar tasks**
