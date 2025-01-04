@@ -1,8 +1,33 @@
-# React + Vite
+# Daily To-do's 📋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Um simples to-do app feito com MERN stack. Foi feito em algumas horas e é um projeto simples, com foco de melhorar meu conhecimento em CRUD. O objetivo é cada vez mais deixar o app mais e mais complexo com features cada vez mais avançadas, no momento é um prótotipo simples, que aos poucos irá crescendo.**
+> [!NOTE]
+> O design do site foi feito com base em um design gratuito do figma: https://www.figma.com/community/file/1350344600031523800/minimal-to-do-list-app
+<br>
+<img src='./src/assets/to-do-app.png'>
 
-Currently, two official plugins are available:
+## Tecnologias Usadas
+-  **MongoDB**
+-  **Express**
+-  **React**
+-  **Node.js**
+## Features
+> CRUD feito com mongoDB
+- **Adicionar tasks**
+- **Apagar tasks**
+- **Completar tasks**
+## Implementações futuras
+> Objetivo é deixar o app cada vez mais complexo
+- [ ] **Edição de tasks**
+- [ ] **Catálogo de tasks**
+- [ ] **Login de usuários com JWT**
+## Instalação:
+````
+  git clone https://github.com/LeiPinheiro/Fullstack_To-do.git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  cd fullstack-to-do
+
+  npm install
+
+  npm run dev
+````
